@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 49496572af40d474db60669ae32bd904
-timeCreated: 1523449222
+guid: 33459bc90c3621b4aa58a98de46dea45
+timeCreated: 1523449352
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: bullet_blue
-    21300002: bullet_red
-    21300004: bullet_yellow
-    21300006: bullet_green
+    21300000: gunBase_blue
+    21300002: gunBase_red
+    21300004: gunBase_green
+    21300006: gunBase_yellow
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -136,57 +136,57 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bullet_blue
+      name: gunBase_blue
       rect:
         serializedVersion: 2
-        x: 86
-        y: 650
-        width: 289
-        height: 280
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 130
+        y: 617
+        width: 262
+        height: 306
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.04297972}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: bullet_red
+      name: gunBase_red
       rect:
         serializedVersion: 2
-        x: 657
-        y: 643
-        width: 276
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 644
+        y: 612
+        width: 264
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5392389, y: 0.045947187}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: bullet_yellow
+      name: gunBase_green
       rect:
         serializedVersion: 2
-        x: 118
-        y: 106
-        width: 280
-        height: 280
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 123
+        y: 141
+        width: 263
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5131295, y: 0.04862178}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: bullet_green
+      name: gunBase_yellow
       rect:
         serializedVersion: 2
-        x: 682
-        y: 82
-        width: 284
-        height: 277
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 653
+        y: 153
+        width: 263
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5262588, y: 0.03733716}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
