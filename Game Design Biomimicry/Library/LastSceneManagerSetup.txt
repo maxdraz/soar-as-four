@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Beta Scene.unity
+- path: Assets/_Scenes/z_Max's scene of beauty.unity
   isLoaded: 1
   isActive: 1
